@@ -11,7 +11,7 @@ District Summary with Thomas 9th graders:
 District Summary without Thomas 9th graders:
 ![without_ninth_graders](District_summary_without_ninth_graders.PNG)
 
-The results for Thomas High School are affected, with passing percentages for math, reading, and overall all falling (but only slightly). Removing the ninth graders from the dataset does not change the standing of THS relative to other schools, as it still ranks second in terms of performance after removing the ninth grade students. 
+The results for Thomas High School are affected, with passing percentages for math, reading, and overall all falling (but only slightly). Removing the ninth graders from the dataset does not change the standing of THS relative to other schools in the district, as it still ranks second in terms of performance after removing the ninth grade students. 
 
 Top Five Schools (After removal of THS 9th graders):
 ![top_five_schools](top_five_schools.png)
