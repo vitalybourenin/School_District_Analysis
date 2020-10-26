@@ -23,4 +23,8 @@ Removing the ninth graders from Thomas High School from the dataset changes the 
 2) Average reading and math Scores for both THS and the district overall
 3) Passing reading and math percentages for both THS and the district overall
 4) Overall passing percentages fot both THS and the district overall
-- It is important to note that we replaced the metrics for Thomas High School with the scores and percentages for their 10th-12th grade students, if we ran the analysis including the ninth grade students at THS with NaN values, their metrics in all categories would have dropped drastically, as about 1/4 of their students would be failing with scores of 0. 
+
+- It is important to note that we replaced the metrics for Thomas High School with the scores and percentages for their 10th-12th grade students, if we ran the analysis including the ninth grade students at THS with NaN values, their metrics in all categories would have dropped drastically (shown below), as about 1/4 of their students would be failing with scores of 0. 
+
+Metrics for Thomas High School if we leave all 9th graders as Nan and don't replace with data for just 10th-12th grade students:
+![with_NaN_values](if_ninth_graders_included_ths.png)
