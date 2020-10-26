@@ -6,10 +6,10 @@ The purpose of this analysis was to remove the ninth grade students accused of c
 The district summary is affected in that there are now a smaller number of total students (due to removed ninth graders from Thomas High School). The metrics for Average Reading/Math Score, and passing percentages for reading, math, and overall were slightly changed, showing a small decrease across all categories. 
 
 District Summary with Thomas 9th graders:
-![with_ninth_graders](District_summary_with_ninth_graders.PNG)
+![with_ninth_graders](District_summary_ninth_graders.PNG)
 
 District Summary without Thomas 9th graders:
-![without_ninth_graders](District_summary_without_ninth_graders.PNG)
+![without_ninth_graders](District_summary_no_ninth_graders.PNG)
 
 The results for Thomas High School are affected, with passing percentages for math, reading, and overall all falling (but only slightly). Removing the ninth graders from the dataset does not change the standing of THS relative to other schools in the district, as it still ranks second in terms of performance after removing the ninth grade students. 
 
